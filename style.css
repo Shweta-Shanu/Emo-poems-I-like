@@ -1,0 +1,73 @@
+.bg-color {
+    background: #FF7852;
+}
+
+
+.bg_img {
+    font-size: 2.25rem;
+    font-family: cursive;
+    color: #F15A24;
+    padding: 10.5rem 10rem;
+    min-height: 600px;
+    background-image: url(images/ironicalemo.png);
+    background-size: cover;
+    background-position: 10%;
+    display: flex; 
+justify-content: flex-start;
+     align-items: center;
+}
+
+.img {
+
+ max-width: 30%;
+
+ min-width: 10rem;
+
+ margin-top: .5rem;
+
+ margin-bottom: .5rem;
+    
+    
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+}
+
+.heading {
+    font-family: georgia;
+    font-size: 5rem;
+}
+
+.poem-font {
+    font-family: georgia;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-size: 5.5rem;
+    color: #FFFFFF;
+}
+
+.nav-link:hover {
+    background: #FFFFFF;
+    color: #000000;
+    padding: 0.5rem;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pagelinks {
+    padding: 5rem;
+    font-family: Helvetica;
+    font-size: 3rem;
+}
+
+.pagelinks:hover {
+    color: #000000;
+}
